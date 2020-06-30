@@ -28,7 +28,7 @@ other contributors to USRBG.
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: var(--user-popout-position) center;
-	background-image: var(--user-background);
+	background-image: var(--user-background, url("https://i.imgur.com/0PkBHYa.png"));
 	-webkit-mask-image: linear-gradient(#000, transparent);
 }
 
