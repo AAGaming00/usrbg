@@ -28,7 +28,7 @@ other contributors to USRBG.
     background-size: cover;
     background-repeat: no-repeat;
     background-position: var(--user-popout-position) center;
-    background-image: var(--user-background, url("https://mfiles.alphacoders.com/801/801013.png"));
+    background-image: var(--user-background, url("https://i.pinimg.com/236x/27/83/aa/2783aa2faeb22c99d7ed36255439d50b--your-lie-in-april-wallpapers-anime-chibi.jpg"));
     -webkit-mask-image: linear-gradient(#000, transparent);
 }
 
