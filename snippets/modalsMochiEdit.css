@@ -33,7 +33,7 @@ other contributors to USRBG.
     height: var(--usrbg-modal-height);
     opacity: .5;
     pointer-events: none;
-    background: var(--user-background, url("https://images6.alphacoders.com/567/567638.png")) center/cover no-repeat;
+    background: var(--user-background, url("https://i.gifer.com/7e49.gif")) center/cover no-repeat;
     -webkit-mask: linear-gradient(black, transparent 80%);
 }
 
